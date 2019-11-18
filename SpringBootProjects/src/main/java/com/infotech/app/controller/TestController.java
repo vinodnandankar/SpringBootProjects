@@ -8,7 +8,7 @@ public class TestController {
 	
 	@RequestMapping("/")
 	public String getText() {
-		return "-------------------------Hello Vinod--------------------------";
+		return "-------------------------Hello Vinod Nandankar--------------------------";
 		
 	}
 
