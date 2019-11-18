@@ -51,5 +51,5 @@
 			<name>Internal Release</name>
 			<url>http://localhost:8081/nexus/content/repositories/nexus2ReopId/</url>
 		</repository>
-	<distributionManagement>	
+	</distributionManagement>	
 </project>
